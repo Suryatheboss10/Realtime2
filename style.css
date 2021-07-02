@@ -1,0 +1,44 @@
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px, 5px, 5px gray;
+}
+
+.heading_div{
+ float: none;
+ background: white;
+ padding: 10px;
+ border-radius: 20px;
+ color: black;
+ box-shadow: 5px, 5px, 5px gray;
+}
+
+.heading_div2{
+    font-size: 18px;
+    
+}
+
+.results_tag{
+    font-size: 20px;
+    box-shadow: 5px,  10px, 18px, teal;
+
+}
+
+.footer{
+    background: palevioletred;
+    color: peachpuff;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px sienna;
+    margin-top: 150px;
+
+}
